@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://getoffthetools.ai/</loc><priority>1.0</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/</loc><priority>0.8</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/ai-for-electricians.html</loc><priority>0.7</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/does-an-electrician-need-a-website.html</loc><priority>0.7</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/electrician-leads-without-checkatrade.html</loc><priority>0.7</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/job-management-software-electricians.html</loc><priority>0.7</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/marketing-for-electricians.html</loc><priority>0.7</priority></url>
-  <url><loc>https://getoffthetools.ai/blog/more-google-reviews-electrician.html</loc><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/ai-for-electricians.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/does-an-electrician-need-a-website.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/electrician-leads-without-checkatrade.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/job-management-software-electricians.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/marketing-for-electricians.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://getoffthetools.ai/blog/more-google-reviews-electrician.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
