@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://getoffthetools.ai/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://getoffthetools.ai/blog/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://getoffthetools.ai/privacy.html</loc><lastmod>2026-06-30</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://getoffthetools.ai/terms.html</loc><lastmod>2026-06-30</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://getoffthetools.ai/blog/ai-for-electricians.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://getoffthetools.ai/blog/does-an-electrician-need-a-website.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://getoffthetools.ai/blog/electrician-leads-without-checkatrade.html</loc><lastmod>2026-06-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
